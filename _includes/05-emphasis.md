@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Message of the Day
+I am *not* happy, Bob. *Not happy*.
+
+Please refrain from
+1. Spitting
+2. Staring
+3. Jogging
